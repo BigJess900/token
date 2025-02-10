@@ -1,0 +1,74 @@
+{
+  "authority": {
+    "type": "publicKey",
+    "data": "F5H4YvPiD7PAxUthDUGCqwbwSZsfP2kdxYhsWnYW178n"
+  },
+  "walletAuthority": {
+    "type": "publicKey",
+    "data": "F5H4YvPiD7PAxUthDUGCqwbwSZsfP2kdxYhsWnYW178n"
+  },
+  "config": {
+    "type": "publicKey",
+    "data": "etURHXAMe7opXpWjqcLWYF33sJ7V74AL9HoUhCP9gJZ"
+  },
+  "itemsRedeemedNormal": {
+    "type": "u64",
+    "data": "8888"
+  },
+  "itemsRedeemedRaffle": {
+    "type": "u64",
+    "data": "0"
+  },
+  "raffleTicketsPurchased": {
+    "type": "u64",
+    "data": "0"
+  },
+  "uuid": {
+    "type": "string",
+    "data": "tW4598"
+  },
+  "itemsAvailable": {
+    "type": "u64",
+    "data": "8888"
+  },
+  "raffleSeed": {
+    "type": "u64",
+    "data": "0"
+  },
+  "bump": {
+    "type": "u8",
+    "data": 253
+  },
+  "notary": {
+    "type": {
+      "option": "publicKey"
+    },
+    "data": "23W5dZSNiNtKXCGvcjkRAJZ6admMXQ26s3ttBaH6Lb2k"
+  },
+  "orderInfo": {
+    "type": "publicKey",
+    "data": "7mJM7TWmHwz5ifcbyxuajJXuAWVt3eagbPkAPpUcsSBr"
+  },
+  "isLite": {
+    "type": "bool",
+    "data": false
+  },
+  "notaryRequired": {
+    "type": {
+      "vec": "bool"
+    },
+    "data": []
+  },
+  "mip1Ruleset": {
+    "type": {
+      "option": "publicKey"
+    },
+    "data": null
+  },
+  "isOpenEdition": {
+    "type": {
+      "option": "bool"
+    },
+    "data": null
+  }
+}
